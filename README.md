@@ -1,2 +1,2 @@
-# Student-Registration-System
+# Student Registration System
 Full-stack student course registration system built with React, Flask, and SQLite. Includes REST API integration, relational database design, and multi-page workflows for managing students, courses, and enrollments.
