@@ -35,14 +35,14 @@ python app.py
 
 ## API Endpoints
 ### Students
-GET `/api/students`
-POST `/api/students`
+- GET `/api/students`
+- POST `/api/students`
 
 ### Courses
-GET `/api/courses`  
-POST `/api/courses` 
+- GET `/api/courses`  
+- POST `/api/courses` 
 
 ### Enrollments
-GET `/api/enrollments`  
-POST `/api/enrollments`  
-DELETE `/api/enrollments/:id`
+- GET `/api/enrollments`  
+- POST `/api/enrollments`  
+- DELETE `/api/enrollments/:id`
